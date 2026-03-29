@@ -1,10 +1,15 @@
 # Digital Literacy Project
 
 **Name:** Princy Mahajan  
+
 **Registration Number:** 25BCE10376 
+
 **Branch:** CSE Core  
+
 **Year of College:** 2025-2029 
+
 **Course Code:** CSA2002  
+
 **Date:** March 29, 2026 
 
 ---
